@@ -156,64 +156,64 @@ Present simple tense rules may not apply directly to statements in other tenses 
 
 ## Preposition:
 
-Specific Time ko batane ke liea AT ka use hota hai.
+Specific Time ko batane ke liea `AT` ka use hota hai.
 - We will meet at 7 o'clock. Hum saat baje milenge.
 
-Days and Dates ko batane ke liea ON ka use hota hai.
+Days and Dates ko batane ke liea `ON` ka use hota hai.
 - My birthday is on the 10th of June. Mera janmdin 10 June ko hai.
 
-Jab lambe time period ka bat ho tab IN use hota hai.
+Jab lambe time period ka bat ho tab `IN` use hota hai.
 - She was born in 1990. Uska janm 1990 mein hua tha.  
 - It's hot in summer. Garmi mein garmi hoti hai.
 
-Jab kuch sath mai batana ho tab WITH ka use hota hai.
+Jab kuch sath mai batana ho tab `WITH` ka use hota hai.
 - She went shopping with her friend. Usne apne dost ke saath khareedari ki.
 
-Jab koi karan or kis ke liea or benift batana ho tab FOR ka use hota hai.
+Jab koi karan or kis ke liea or benift batana ho tab `FOR` ka use hota hai.
 - This gift is for you. Yah uphaar aapke liye hai.
 
-Jab outwars direction batana hota hai tab TO ka use hota hai.
+Jab outwars direction batana hota hai tab `TO` ka use hota hai.
 - She went to the store. Usne dukaan par gayi.
 
-Jab inwards direction kisi chij ke andar ho tab INTO ka use hota hai.
+Jab inwards direction kisi chij ke andar ho tab `INTO` ka use hota hai.
 - He walked into the room.Usne kamre mein chalkar aaya.
 
-Jab kisi bhumi ke upor koi halchal/movement batana ho tab ONTO ka use hota hai.
+Jab kisi bhumi ke upor koi halchal/movement batana ho tab `ONTO` ka use hota hai.
 - The cat jumped onto the table.
 
-Jab kis ke madat se batana ho tab BY ka use hota hai.
+Jab kis ke madat se batana ho tab `BY` ka use hota hai.
 - She travels by car.
 
-Jab opinion jatana ho to AccordingTo ka use hota hai.
+Jab opinion jatana ho to `ACORDINGTO` ka use hota hai.
 - According to the weather forecast, it will rain tomorrow.
 
-Jab koi kis liea hua hai ow jatana ho to DUETO ka use hota hai.
+Jab koi kis liea hua hai ow jatana ho to `DUETO` ka use hota hai.
 - The flight was canceled due to bad weather.
 
-Jab koi options ko nikal ke ho to APART FORM ka use hota hai.
+Jab koi options ko nikal ke ho to `APARTFORM` ka use hota hai.
 - Apart from English, he speaks French and German.
 
 ## Modal verb
 
-Jab Sentence pai Ability/Permission ea do Feelings Jatane ke kosis kia jata hai tab CAN ka use kia jata hai.
+Jab Sentence pai Ability/Permission ea do Feelings Jatane ke kosis kia jata hai tab `CAN` ka use kia jata hai.
 
 - She can speak Spanish. (Ability)
 - Can she speak Spanish?
 - Can I go to the bathroom? (Permission)
 
-Jab Sentence pai Polite Request/Past Ability ea do Feelings Jatane ke kosis kia jata hai tab COULD ka use kia jata hai.
+Jab Sentence pai Polite Request/Past Ability ea do Feelings Jatane ke kosis kia jata hai tab `COULD` ka use kia jata hai.
 
 - Could You passed me the salt, please.(Polite request)
 - When I was young, I could run very fast. (Past ability)
 
-Jab Sentence pai Advice/Expectation ea do Feelings Jatane ke kosis kia jata hai tab SHOULD ka use kia jata hai.
+Jab Sentence pai Advice/Expectation ea do Feelings Jatane ke kosis kia jata hai tab `SHOULD` ka use kia jata hai.
 
 
 - You should eat more vegetables. (Advice)
 - He should be here by now. (Expectation)
 - Should he be here by now?
 
-Jab Sentence pai Permission/Possibility ea do Feelings Jatane ke kosis kia jata hai tab May ka use kia jata hai.
+Jab Sentence pai Permission/Possibility ea do Feelings Jatane ke kosis kia jata hai tab `MAY` ka use kia jata hai.
 
 
 - You may leave the room now. (Permission)
@@ -221,21 +221,21 @@ Jab Sentence pai Permission/Possibility ea do Feelings Jatane ke kosis kia jata 
 - It may not rain later. 
 - May it rain later?
 
-Jab Sentence pai Possibility/Suggestion ea do Feelings Jatane ke kosis kia jata hai tab MIGHT ka use kia jata hai.
+Jab Sentence pai Possibility/Suggestion ea do Feelings Jatane ke kosis kia jata hai tab `MIGHT` ka use kia jata hai.
 
 - She might come to the party tonight. (Possibility)
 - You might want to consider a different approach. (Suggestion)
 - Might you want to consider a different approach?
 - You might not want to consider a different approach.
 
-Jab Sentence pai Obligation/Certainty ea do Feelings Jatane ke kosis kia jata hai tab MUST ka use kia jata hai.
+Jab Sentence pai Obligation/Certainty ea do Feelings Jatane ke kosis kia jata hai tab `MUST` ka use kia jata hai.
 
 
 - You must finish your homework before you can watch TV. (Obligation)
 - It must be cold outside; everyone is wearing jackets. (Certainty)
 
 
-Jab Sentence pai Polite Request/Conditional ea do Feelings Jatane ke kosis kia jata hai tab WOULD ka use kia jata hai.
+Jab Sentence pai Polite Request/Conditional ea do Feelings Jatane ke kosis kia jata hai tab `WOULD` ka use kia jata hai.
 
 
 - Would you like some tea? (Polite request)
@@ -245,31 +245,31 @@ Jab Sentence pai Polite Request/Conditional ea do Feelings Jatane ke kosis kia j
 
 ### TENSES
 
-Simple Present Tense tab use hota hai jab koi kam/verb ho raha hai or koi Habit ke bare mai jikar kia ja raha hai or koi universal truth ho-like Suraj uthega.
+`Simple Present Tense` tab use hota hai jab koi kam/verb ho raha hai or koi Habit ke bare mai jikar kia ja raha hai or koi universal truth ho-like Suraj uthega.
 
-Simple Past Tense tab use hota hai jab koi kam/Verb khatam ho gya hai uske bare mai jikar kia jaraha hai, and jis kam ke bare mai jikar kia ja raha hai uska avi present se koi matlab or influence nhi hai.
+`Simple Past Tense` tab use hota hai jab koi kam/Verb khatam ho gya hai uske bare mai jikar kia jaraha hai, and jis kam ke bare mai jikar kia ja raha hai uska avi present se koi matlab or influence nhi hai.
 
-Present Continious Tense tab use hota hai jab ham koi kam karte karte uska jikar kar rahe hai. Ea fir koi chij past mai ho raha tha, avi vi ho raha hai and Future mai vi hoga, jab aise feelings ka jikar karte hai tab use hota hai.  
+`Present Continious Tense` tab use hota hai jab ham koi kam karte karte uska jikar kar rahe hai. Ea fir koi chij past mai ho raha tha, avi vi ho raha hai and Future mai vi hoga, jab aise feelings ka jikar karte hai tab use hota hai.  
 - `We are deploying the latest software update.`
 
-Past Continious Tense tab use hota hai jab past mai koi kam ek time period tak chala tha ab khatam ho gya hai, and us sentence pai ham time period ka vi jikar kar rahe hai. or Jab do kam past pai eksath chal raha tha aise feelings ka jikar karna chahte hai tab vi use hoat hai (Aise sentence pai ek part senetence ka past continious tense hoat hai ek simple past hota hai). 
+`Past Continious Tense` tab use hota hai jab past mai koi kam ek time period tak chala tha ab khatam ho gya hai, and us sentence pai ham time period ka vi jikar kar rahe hai. or Jab do kam past pai eksath chal raha tha aise feelings ka jikar karna chahte hai tab vi use hoat hai (Aise sentence pai ek part senetence ka past continious tense hoat hai ek simple past hota hai). 
 - `The developers were attending a coding workshop yesterday.`
 - `They were configuring the new server setup when I called.` 
 - `We were testing the application when the server crashed.` 
 
-Present Perfect Tense tab use karte hai jab koi kam kahatm to ho gya tha, but avi us kam ka Present moment se koi talukat hai. and Jab koi past kam ka fal hame present pai mil raha hai tab vi use hota hai. Aise sentence pai Accurate time mentioned nhi hota hai. 
+`Present Perfect Tense` tab use karte hai jab koi kam kahatm to ho gya tha, but avi us kam ka Present moment se koi talukat hai. and Jab koi past kam ka fal hame present pai mil raha hai tab vi use hota hai. Aise sentence pai Accurate time mentioned nhi hota hai. 
 - `The IT support team has resolved the network issue.` 
 - `The software developers have completed the API documentation.`
 
-Past Perfect Tense tab use hoata hai jab ham do past ke kam ka jikar karte hai, unme se ek kam dusre kam ke age hua hai ea vi jaikar karna chahate hai. 
+`Past Perfect Tense` tab use hoata hai jab ham do past ke kam ka jikar karte hai, unme se ek kam dusre kam ke age hua hai ea vi jaikar karna chahate hai. 
 - `They had deployed the backup system before the data loss incident.`
 - `She had discussed the requirements with the client before the sprint planning.`
 
-Present Perfect Continious Tense tab use haota hai jab koi sentence pai ham, ek kam past pai start hua tha and avi just khatam hua ea feelings ka jikar karte hai. is kisam ke sentnce pai time ka jikar hota hai like kitne time se ea kam chala hai. 
+`Present Perfect Continious Tense` tab use haota hai jab koi sentence pai ham, ek kam past pai start hua tha and avi just khatam hua ea feelings ka jikar karte hai. is kisam ke sentnce pai time ka jikar hota hai like kitne time se ea kam chala hai. 
 - `The IT department has been monitoring network traffic all day.` 
 - `Our engineers have been working on optimizing the database for the past few weeks.`
 
-Past perfect Contionous Tense tab use karta hai jab Senstence pai do past ke kam hai unme se ek kam dusre kam ke age khatam hua hai (matlab pehela kam dusre kam tak chala tha aisa feelings ka jikar ho) and kitne time laga tha ow kam karne ke liea ow jikar vi sentence pai kia gya hai. 
+`Past perfect Contionous Tense` tab use karta hai jab Senstence pai do past ke kam hai unme se ek kam dusre kam ke age khatam hua hai (matlab pehela kam dusre kam tak chala tha aisa feelings ka jikar ho) and kitne time laga tha ow kam karne ke liea ow jikar vi sentence pai kia gya hai. 
 - `Our team had been working on the prototype when the requirements changed.`
 - `By the time we discovered the vulnerability, hackers had been exploiting it for weeks.`
 - `By the time they joined the project, we had been troubleshooting the server issues for several days.`
@@ -395,6 +395,8 @@ Past Continuous Tense:
 - He was documenting the meeting minutes throughout the day.
 - We were reviewing the feedback from the beta testers.
 
+
+
 Past Perfect Tense:
 - Describes an action that occurred before another action or event in the past.
 - Indicates that the action was completed before a certain point in the past.
@@ -412,6 +414,8 @@ Past Perfect Tense:
 - They had conducted the security audit before the breach.
 - She had discussed the requirements with the client before the sprint planning.
 - He had resolved the critical issue before the demo.
+
+
 
 
 Past Perfect Continuous Tense:
@@ -449,6 +453,8 @@ Simple Future Tense:
 - He will update the documentation after the code freeze.
 - She will coordinate with the UX designer for the UI improvements.
 - He will merge the feature branch into the main repository.
+
+
 
 Future Continuous Tense:
 - At this time next year, we will be implementing a new CRM system.
